@@ -2,18 +2,29 @@ p {
     text-align: center;
     color: white;
     font-size: 30px;
-    margin: 2rem;
+    overflow-wrap: break-word;
+    padding: 2rem;
   }
 h1 {
     text-align: center;
     color: white;
     font-size: 50px;
-    margin: 3rem;
+    overflow-wrap: break-word;
+    padding: 2rem;
   }
 
   h2 {
     text-align: center;
     color: yellow;
     font-size: 35px;
-    margin: 2rem;
+    overflow-wrap: break-word;
+    padding: 2rem;
+  }
+
+  h3 {
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    overflow-wrap: break-word;
+    padding: 2rem;
   }
